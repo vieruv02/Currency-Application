@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name ="dollar">USD:</string>
+    <string name="pound">GBP:</string>
+    <string name="euro">EURO:</string>
+    <string name = "convert">Convert</string>
+</resources>
